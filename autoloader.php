@@ -1,6 +1,6 @@
 <?php
 define("CONFIG_FILE_PATH", __DIR__ . "/../../config/autoloader.json");
-define("ROOT_PROJECT_PATH", __DIR__ . "/../..");
+define("ROOT_PROJECT_PATH", __DIR__ . "/../../");
 
 class Autoloader
 {
